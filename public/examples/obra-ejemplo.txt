@@ -1,0 +1,19 @@
+# ESCENA 1 | TÍTULO DE EJEMPLO
+
+// Este comentario no aparecerá en la exportación.
+
+[PERSONAJE_A]
+Primera línea de ejemplo.
+Segunda línea de ejemplo.
+
+[PERSONAJE_B]
+Otro diálogo de ejemplo.
+
+@BLACK
+
+# ESCENA 2 | SEGUNDA ESCENA
+
+[PERSONAJE_A]
+Texto de ejemplo con un salto manual.
+
+Segunda parte después de una línea vacía.
